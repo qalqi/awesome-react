@@ -651,6 +651,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-three-renderer - Render into a three.js canvas using React](https://github.com/toxicFork/react-three-renderer)
 * [react-threejs - Simplest bindings between React & Three.js](https://github.com/fritx/react-threejs)
 * [react-masonry-css - Fast Masonry layout powered by CSS, dependancy free](https://github.com/paulcollett/react-masonry-css)
+* [Redux bindings for Firebase. Includes Higher Order Component for use with React.](https://github.com/prescottprue/react-redux-firebase)
 
 ##### Forms
 * [React Forms](http://facebook.github.io/react/docs/forms.html)
